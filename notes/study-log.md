@@ -8,7 +8,8 @@
 - How to initialize a Git repo
 - How to push to GitHub
 - How to create and run a simple bash script
-## Commands I used: mkdir, cd, pwd, ls, touch, cp, mv, rm, git init, git add, git commit, git push, chmod
+## Commands I used:
+ mkdir, cd, pwd, ls, touch, cp, mv, rm, git init, git add, git commit, git push, chmod
 ## Problems / Errors:
  - curl was not installed
 - GitHub rejected normal password authentication during `git push`
